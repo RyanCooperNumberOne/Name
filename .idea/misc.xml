@@ -6,10 +6,11 @@
         <entry key="..\:/Users/oblas/AndroidStudioProjects/Telegram/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2285" />
         <entry key="..\:/Users/oblas/AndroidStudioProjects/Telegram/app/src/main/res/drawable/header.xml" value="0.2" />
         <entry key="..\:/Users/oblas/AndroidStudioProjects/Telegram/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2285" />
+        <entry key="..\:/Users/oblas/AndroidStudioProjects/Telegram/app/src/main/res/drawable/ripple_effect.xml" value="0.1875" />
         <entry key="..\:/Users/oblas/AndroidStudioProjects/Telegram/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/oblas/AndroidStudioProjects/Telegram/app/src/main/res/layout/fragment_base.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/oblas/AndroidStudioProjects/Telegram/app/src/main/res/layout/fragment_chats.xml" value="0.25" />
-        <entry key="..\:/Users/oblas/AndroidStudioProjects/Telegram/app/src/main/res/layout/fragment_settings.xml" value="0.2564814814814815" />
+        <entry key="..\:/Users/oblas/AndroidStudioProjects/Telegram/app/src/main/res/layout/fragment_settings.xml" value="0.33" />
       </map>
     </option>
   </component>
