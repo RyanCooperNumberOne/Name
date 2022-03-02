@@ -11,4 +11,6 @@
     <string name="change_login">Change login</string>
     <string name="settings_about_me">About me</string>
     <string name="description">Description</string>
+    <string name="settings_menu_change_name">Изменить имя</string>
+    <string name="settings_menu_exit">Выход</string>
 </resources>
